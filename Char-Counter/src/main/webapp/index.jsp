@@ -45,8 +45,6 @@
 			</div>
 			
 			
-			
-			
 			<script>
 				var text_input_div = document.getElementById("text_input");
 				var char_include_blank_cnt_div = document.getElementById("char_include_blank_cnt");
@@ -121,7 +119,7 @@
 	</div>
 	</footer>
 	
-	
+	<br><br><br>
 
 </body>
 </html>
